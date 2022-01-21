@@ -2,3 +2,8 @@
   padding-inline-end: 0;
   margin: auto;
 }
+
+.header {
+  background-color: black;
+  font-size: 14px;
+}
